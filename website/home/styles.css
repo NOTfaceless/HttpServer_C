@@ -1,0 +1,24 @@
+h1{
+    color: black;
+}
+p1{
+    font-size: 55;
+    color: black;
+}
+.image{
+    position: relative;
+    width: 100px;
+    height: 100px;
+}
+
+.plus{
+    position: relative;
+    font-size: 100px;
+}
+.clogo{
+    position: relative;
+    width: 100px;
+    height: 100px;
+    top: 100;
+    left: 100;
+}

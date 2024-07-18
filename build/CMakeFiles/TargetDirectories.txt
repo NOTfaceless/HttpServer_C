@@ -1,0 +1,3 @@
+/home/faceless/Documents/Programming/C/serverImplm/build/CMakeFiles/server.exe.dir
+/home/faceless/Documents/Programming/C/serverImplm/build/CMakeFiles/edit_cache.dir
+/home/faceless/Documents/Programming/C/serverImplm/build/CMakeFiles/rebuild_cache.dir
